@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://mikhmon.us.to/sitemap.xml
